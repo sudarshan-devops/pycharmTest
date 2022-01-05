@@ -6,6 +6,7 @@
       <mapping pattern="TEST-InvicesReport-Manatest-2021-01-06_15" type="PLAIN_TEXT" />
       <mapping ext="2019-09-25" type="PLAIN_TEXT" />
       <mapping ext="tar" type="PLAIN_TEXT" />
+      <mapping ext="log-2022-01-05" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
